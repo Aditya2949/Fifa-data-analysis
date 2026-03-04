@@ -4,4 +4,4 @@
 This Project analyzes FIFA dataset using Python
 
 ## Perfomed Analysis
-- All Columns print
+- All Columns printed
