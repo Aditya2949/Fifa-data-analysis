@@ -5,3 +5,4 @@ This Project analyzes FIFA dataset using Python
 
 ## Perfomed Analysis
 - All Columns printed
+- check how many cells in data
