@@ -9,4 +9,4 @@ This Project analyzes FIFA dataset using Python
 - shape of data
 - Check All nationality players
 - Getting top 10 rows in csv file
-- Fetching Keys only
+- Fetching Keys only 
