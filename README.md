@@ -11,4 +11,5 @@ This project performs Exploratory Data Analysis (EDA) on the FIFA player dataset
 - Check All nationality players
 - Getting top 10 rows in csv file
 - Fetching Keys only
-- Making barplot for how many plyers belongs in which countory 
+- Making barplot for how many plyers belongs in which countory
+- Getting players names and salary
