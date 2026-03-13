@@ -6,10 +6,10 @@ This project performs Exploratory Data Analysis (EDA) on the FIFA player dataset
 
 ## 📂 Dataset
 
-File: fifa.csv
-Rows: 16,155 players
-Columns: 81 features
-Source: SoFIFA (FIFA video game player data)
+- File: fifa.csv
+- Rows: 16,155 players
+- Columns: 81 features
+- Source: SoFIFA (FIFA video game player data)
 
 ## Perfomed Analysis
 - All Columns printed
