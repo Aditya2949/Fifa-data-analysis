@@ -4,7 +4,7 @@
 ## 📌 Project Overview
 This project performs Exploratory Data Analysis (EDA) on the FIFA player dataset sourced from SoFIFA. It covers a wide range of analyses including player nationality distribution, salary rankings, skill comparisons, and club-specific breakdowns.
 
-📂 Dataset
+## 📂 Dataset
 
 File: fifa.csv
 Rows: 16,155 players
