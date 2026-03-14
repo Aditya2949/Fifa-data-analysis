@@ -11,6 +11,9 @@ This project performs Exploratory Data Analysis (EDA) on the FIFA player dataset
 - Columns: 81 features
 - Source: SoFIFA (FIFA video game player data)
 
+## Key attributes include:
+- Player identity: short_name, long_name, nationality, age, dob
+
 ## Perfomed Analysis
 - All Columns printed
 - check how many cells in data
