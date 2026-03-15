@@ -13,6 +13,7 @@ This project performs Exploratory Data Analysis (EDA) on the FIFA player dataset
 
 ## Key attributes include:
 - Player identity: short_name, long_name, nationality, age, dob
+- Lionel Messi earns the highest weekly wage at €550,000.
 
 ## Perfomed Analysis
 - All Columns printed
