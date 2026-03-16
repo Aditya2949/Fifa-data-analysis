@@ -13,7 +13,7 @@ This project performs Exploratory Data Analysis (EDA) on the FIFA player dataset
 
 ## Key attributes include:
 - Player identity: short_name, long_name, nationality, age, dob
-- Lionel Messi earns the highest weekly wage at €550,000.
+- Club info: club_name, league_name, league_rank
 - Cristiano Ronaldo has the highest shooting rating (93) among all players.
 
 ## Perfomed Analysis
