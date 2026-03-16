@@ -14,7 +14,7 @@ This project performs Exploratory Data Analysis (EDA) on the FIFA player dataset
 ## Key attributes include:
 - Player identity: short_name, long_name, nationality, age, dob
 - Club info: club_name, league_name, league_rank
-- Cristiano Ronaldo has the highest shooting rating (93) among all players.
+- Performance: overall, potential, shooting, defending, dribbling, passing, pace
 
 ## Perfomed Analysis
 - All Columns printed
