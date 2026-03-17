@@ -16,6 +16,7 @@ This project performs Exploratory Data Analysis (EDA) on the FIFA player dataset
 - Club info: club_name, league_name, league_rank
 - Performance: overall, potential, shooting, defending, dribbling, passing, pace
 - Physical: height_cm, weight_kg
+- Financial: wage_eur, value_eur, release_clause_eur
 
 ## Perfomed Analysis
 - All Columns printed
