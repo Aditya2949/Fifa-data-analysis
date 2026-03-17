@@ -17,6 +17,7 @@ This project performs Exploratory Data Analysis (EDA) on the FIFA player dataset
 - Performance: overall, potential, shooting, defending, dribbling, passing, pace
 - Physical: height_cm, weight_kg
 - Financial: wage_eur, value_eur, release_clause_eur
+- Detailed skill stats: 40+ granular attributes (e.g., attacking_finishing, goalkeeping_reflexes)
 
 ## Perfomed Analysis
 - All Columns printed
