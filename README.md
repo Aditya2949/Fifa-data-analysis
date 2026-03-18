@@ -20,4 +20,7 @@ This project performs Exploratory Data Analysis (EDA) on the FIFA player dataset
 - Detailed skill stats: 40+ granular attributes (e.g., attacking_finishing, goalkeeping_reflexes)
 
 ## Analysis Performed
+1. Nationality Distribution
+  - Counted players by nationality across 149 countries
+  - Visualized the Top 5 nationalities using a bar chart
 
