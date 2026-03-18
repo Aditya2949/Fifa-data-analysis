@@ -19,12 +19,5 @@ This project performs Exploratory Data Analysis (EDA) on the FIFA player dataset
 - Financial: wage_eur, value_eur, release_clause_eur
 - Detailed skill stats: 40+ granular attributes (e.g., attacking_finishing, goalkeeping_reflexes)
 
-## Perfomed Analysis
-- All Columns printed
-- check how many cells in data
-- shape of data
-- Check All nationality players
-- Getting top 10 rows in csv file
-- Fetching Keys only
-- Making barplot for how many plyers belongs in which countory
-- Getting players names and salary
+## Analysis Performed
+
