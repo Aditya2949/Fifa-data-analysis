@@ -23,4 +23,5 @@ This project performs Exploratory Data Analysis (EDA) on the FIFA player dataset
 1. Nationality Distribution
   - Counted players by nationality across 149 countries
   - Visualized the Top 5 nationalities using a bar chart
+  - England leads with 1,627 players, followed by Spain, France, Argentina, and Italy
 
