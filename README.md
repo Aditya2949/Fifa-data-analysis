@@ -25,3 +25,7 @@ This project performs Exploratory Data Analysis (EDA) on the FIFA player dataset
   - Visualized the Top 5 nationalities using a bar chart
   - England leads with 1,627 players, followed by Spain, France, Argentina, and Italy
 
+2. 💰 Player Salary Analysis
+   - Extracted player wages and sorted in descending order
+
+
