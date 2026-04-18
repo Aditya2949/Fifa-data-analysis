@@ -26,13 +26,13 @@ This project performs Exploratory Data Analysis (EDA) on the FIFA player dataset
   - England leads with 1,627 players, followed by Spain, France, Argentina, and Italy
 
 2. 💰 Player Salary Analysis
-   - Extracted player wages and sorted in descending order
-   - Top earners: L. Messi (€550,000/week), Cristiano Ronaldo (€375,000/week), M. Neuer, L. Suárez
-   - Visualized top 5 highest-paid players with a color-coded bar chart
+- Extracted player wages and sorted in descending order
+- Top earners: L. Messi (€550,000/week), Cristiano Ronaldo (€375,000/week), M. Neuer, L. Suárez
+- Visualized top 5 highest-paid players with a color-coded bar chart
 
 3. 🇩🇪 Germany National Team Deep Dive
-   - Filtered all German players from the dataset
-   - Ranked by:
+- Filtered all German players from the dataset
+- Ranked by:
            - Height — Tallest players: T. Stuckmann (199 cm), B. Pliquett (199 cm)
            - Weight — Heaviest: T. Wiese (110 kg), L. Unnerstall (100 kg)
            - Wage — Highest paid: M. Neuer (€300,000), M. Hummels & B. Schweinsteiger (€200,000 each)
