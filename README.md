@@ -37,4 +37,8 @@ This project performs Exploratory Data Analysis (EDA) on the FIFA player dataset
     - Weight — Heaviest: T. Wiese (110 kg), L. Unnerstall (100 kg)
     - Wage — Highest paid: M. Neuer (€300,000), M. Hummels & B. Schweinsteiger (€200,000 each)
 
+4. 🎯 Shooting Ability Ranking
+  - Extracted and ranked players by shooting score
+  - Top shooters: Cristiano Ronaldo (93), Z. Ibrahimović (91), R. van Persie (90), L. Messi (89)
+
 
