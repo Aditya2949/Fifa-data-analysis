@@ -41,4 +41,9 @@ This project performs Exploratory Data Analysis (EDA) on the FIFA player dataset
   - Extracted and ranked players by shooting score
   - Top shooters: Cristiano Ronaldo (93), Z. Ibrahimović (91), R. van Persie (90), L. Messi (89)
 
+5. 🛡️ Defending Ability Ranking
+   - Ranked players globally by defending score
+   - Best defenders: Thiago Silva (90), M. Benatia (88), M. Hummels (88)
+
+
 
