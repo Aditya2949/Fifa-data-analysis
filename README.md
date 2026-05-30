@@ -44,6 +44,15 @@ This project performs Exploratory Data Analysis (EDA) on the FIFA player dataset
 5. 🛡️ Defending Ability Ranking
    - Ranked players globally by defending score
    - Best defenders: Thiago Silva (90), M. Benatia (88), M. Hummels (88)
+     
+6.  Real Madrid Club Analysis
+   - Filtered all Real Madrid players
+   - Analyzed by:
+           - Wages — Cristiano Ronaldo tops the list
+           - Shooting — Ronaldo, Benzema, G. Bale lead
+           - Defending — Sergio Ramos (87), Pepe (86) are the best defenders
+           - Nationality breakdown — Spain (17), Portugal (3), Germany (2), France (2)
+
 
 
 
