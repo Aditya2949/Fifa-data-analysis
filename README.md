@@ -53,6 +53,10 @@ This project performs Exploratory Data Analysis (EDA) on the FIFA player dataset
            - Defending — Sergio Ramos (87), Pepe (86) are the best defenders
            - Nationality breakdown — Spain (17), Portugal (3), Germany (2), France (2)
 
-
-
+7. Key Insights
+   - England has the most professional FIFA-rated players globally.
+   - Lionel Messi earns the highest weekly wage at €550,000.
+   - Cristiano Ronaldo has the highest shooting rating (93) among all players.
+   - Thiago Silva is the top-rated defender in the dataset.
+   - Real Madrid squad consists of players from 12 different nationalities, with Spain being the most represented.
 
