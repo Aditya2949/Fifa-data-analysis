@@ -62,5 +62,6 @@ This project performs Exploratory Data Analysis (EDA) on the FIFA player dataset
 
 ## Author
   Aditya Patil
-  adityapatil2949@gmail.com
-
+  
+  📧 Email:adityapatil2949@gmail.com
+  Linkedin: https://www.linkedin.com/in/aditya-patil-7047512a1/
