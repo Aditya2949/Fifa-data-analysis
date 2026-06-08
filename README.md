@@ -60,3 +60,7 @@ This project performs Exploratory Data Analysis (EDA) on the FIFA player dataset
    - Thiago Silva is the top-rated defender in the dataset.
    - Real Madrid squad consists of players from 12 different nationalities, with Spain being the most represented.
 
+## Author
+  Aditya Patil
+  adityapatil2949@gmail.com
+
